@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "售后评价",
+  "usingComponents": {
+    "van-icon": "/wxcomponents/vant/dist/icon/index",
+    "van-button": "/wxcomponents/vant/dist/button/index",
+    "van-rate": "/wxcomponents/vant/dist/rate/index"
+  }
+}
